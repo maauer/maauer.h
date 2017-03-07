@@ -1,12 +1,9 @@
-<!-- this will be the testing ground for my site because I can upload and edit from github. but I am not sure why I need php support. 
-meh. it will be useful at some point. -->
-
 
 <!doctype html>
 <html>
 <head>
   <title>menachem | menachem238</title>
-	<link rel="shortcut icon" type="image/png" href="/icon.png">
+	<link rel="shortcut icon" type="image/png" href="/pixico.png">
 	
   <meta charset='utf-8' />
   <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=0' />
