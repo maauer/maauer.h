@@ -1,6 +1,6 @@
 {
   "settings": {
-    "theme": "tm", // UI theme, possible values: fb (flat blue), wh (white), hc (high contrast) and other
+    "theme": "fb", // UI theme, possible values: fb (flat blue), wh (white), hc (high contrast) and other
     "locale": "en", // language
     "expandGroups": true, // show entries from all subgroups
     "listViewWidth": null, // list view width
